@@ -5,8 +5,8 @@ from tkinter import Tk, filedialog, Toplevel, Label, Button
 from PIL import Image, ImageTk
 import segmentation_models_pytorch as smp
 
-WEIGHTS = r"runs/unet_r34_384/best.pth"
-IMG_SIZE = 384
+WEIGHTS = r"runs/unet_r34_384/last.pth"
+IMG_SIZE = 512
 THRESH   = 0.5
 ENCODER  = "resnet34"
 ENCODER_WEIGHTS = None
