@@ -777,7 +777,7 @@ def main():
     """
     app = QtWidgets.QApplication([])
     w = MainWindow(model_dir=DEFAULT_MODEL_DIR, img_size=DEFAULT_IMG_SIZE)
-    w.show()
+    w.showMaximized()
     app.exec()
 
 
