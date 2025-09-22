@@ -18,7 +18,8 @@ unet-vickers
 ├─ infer_pth_gui.py		# 打开一张图片并分析
 ├─ plot_history.py		# 生成curve.png
 ├─ train.py		# 训练
-└─ ui_infer.py		# 可视化 UI 界面
+├─ ui_infer_quadrilateral.py	# 可视化 UI 界面，四边形拟合
+└─ ui_infer_rectangle.py		# 可视化 UI 界面，矩形拟合
 ```
 
 #### 训练评估
