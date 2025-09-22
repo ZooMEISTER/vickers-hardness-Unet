@@ -23,18 +23,18 @@ unet-vickers
 
 #### 训练评估
 
-![训练评估](runs\unet_r34_512\curves.png)
+![训练评估](https://github.com/ZooMEISTER/vickers-hardness-Unet/blob/master/runs/unet_r34_512/curves.png)
 
 #### 运行
 
-![runtime_1](runs\imgs\ui_1.jpg)
+![runtime_1](https://github.com/ZooMEISTER/vickers-hardness-Unet/blob/master/runs/imgs/ui_1.jpg)
 
-![runtime_2](runs\imgs\ui_2.jpg)
+![runtime_2](https://github.com/ZooMEISTER/vickers-hardness-Unet/blob/master/runs/imgs/ui_2.jpg)
 
-![runtime_3](runs\imgs\ui_3.jpg)
+![runtime_3](https://github.com/ZooMEISTER/vickers-hardness-Unet/blob/master/runs/imgs/ui_3.jpg)
 
-![runtime_4](runs\imgs\ui_4.jpg)
+![runtime_4](https://github.com/ZooMEISTER/vickers-hardness-Unet/blob/master/runs/imgs/ui_4.jpg)
 
-![runtime_5](runs\imgs\ui_5.jpg)
+![runtime_5](https://github.com/ZooMEISTER/vickers-hardness-Unet/blob/master/runs/imgs/ui_5.jpg)
 
-![runtime_6](runs\imgs\ui_6.jpg)
+![runtime_6](https://github.com/ZooMEISTER/vickers-hardness-Unet/blob/master/runs/imgs/ui_6.jpg)
