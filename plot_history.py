@@ -8,9 +8,9 @@ Features:
 - Optional export as CSV
 
 Usage:
-    python plot_history.py runs/unet_r34_384/history.json
+    python plot_history.py runs/unet_r34_512/history.json
     # or just the folder containing history.json
-    python plot_history.py runs/unet_r34_384 --smooth 3 --csv
+    python plot_history.py runs/unet_r34_512 --smooth 3 --csv
 """
 
 import argparse
